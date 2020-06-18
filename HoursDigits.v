@@ -1,4 +1,4 @@
-/*	HoursDigits.v
+/*	HoursDigits.v - Modified
 	Module for behavior of hours counter.
 	
 	Copyright 2017 Patrick Cland */
