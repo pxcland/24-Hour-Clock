@@ -1,4 +1,4 @@
-/*	SecondsMinutesDigits.v
+/*	SecondsMinutesDigits.v - Edited
 	Module for behavior of minutes and seconds counters.
 	
 	Copyright 2017 Patrick Cland */
